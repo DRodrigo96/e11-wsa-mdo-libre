@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+scrapy-rotating-proxies==0.6.2
+Scrapy==2.11.0
+fake-useragent==1.4.0
